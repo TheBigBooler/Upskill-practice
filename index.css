@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: slategray
+}
+
+nav {
+    color: white
+}
+
+a {
+    color: slateblue
+}
+
+input {
+    margin: 10px;
+}
