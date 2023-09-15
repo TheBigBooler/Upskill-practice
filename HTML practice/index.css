@@ -1,16 +1,33 @@
 body {
-    background-color: black;
-    color: slategray
+    background-color: rgb(37, 36, 36);
+    color: slategray;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 nav {
-    color: white
+    color: white;
 }
 
 a {
-    color: slateblue
+    color: slateblue;
 }
 
 input {
     margin: 10px;
+}
+
+input:focus {
+    background-color: lightgreen;
+}
+
+a:hover {
+    color: salmon;
+}
+
+input:hover {
+    background-color: lightgreen;
+}
+
+a:visited {
+    color:salmon;
 }
